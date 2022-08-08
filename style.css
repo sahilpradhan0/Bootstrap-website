@@ -1,0 +1,15 @@
+.menus ul{
+    list-style: none;
+}
+.menus ul li a{
+    margin: 15px;
+}
+.menus{
+    align-items: center;
+}
+#cards{
+    padding: 8px;
+}
+/* footer p{
+    color: ;
+} */
